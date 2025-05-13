@@ -1,0 +1,82 @@
+[
+  {
+    "question": "Co mogę przesłać do analizy?",
+    "answer": "Możesz przesłać zdjęcia w formacie JPG, JPEG lub PNG, przedstawiające przedmioty, krajobrazy, ludzi, zwierzęta, dokumenty i inne elementy."
+  },
+  {
+    "question": "Jakie formaty obrazów są obsługiwane?",
+    "answer": "Obsługiwane są pliki JPG, JPEG i PNG."
+  },
+  {
+    "question": "Czy analiza zdjęcia jest natychmiastowa?",
+    "answer": "Tak, analiza trwa zazwyczaj kilka sekund po przesłaniu zdjęcia."
+  },
+  {
+    "question": "Czy mogę przesłać wiele zdjęć na raz?",
+    "answer": "Aktualnie obsługiwane jest tylko jedno zdjęcie na raz."
+  },
+  {
+    "question": "Czy moje zdjęcie jest zapisywane na serwerze?",
+    "answer": "Nie, Twoje zdjęcie jest analizowane jednorazowo i nie jest zapisywane ani przechowywane."
+  },
+  {
+    "question": "Czy system rozpoznaje tekst na zdjęciach?",
+    "answer": "Tak, system może rozpoznać tekst na zdjęciu, jednak nie jest to jego główna funkcja."
+  },
+  {
+    "question": "Czy mogę zapytać o szczegóły ze zdjęcia?",
+    "answer": "Tak, możesz zadać pytania dotyczące zawartości przesłanego zdjęcia."
+  },
+  {
+    "question": "Co oznaczają tagi wygenerowane przez system?",
+    "answer": "Tagi to słowa kluczowe opisujące główne elementy zdjęcia, np. 'plaża', 'pies', 'zachód słońca'."
+  },
+  {
+    "question": "Czy system rozpozna osoby na zdjęciu?",
+    "answer": "System może wykryć obecność ludzi, ale nie identyfikuje ich tożsamości."
+  },
+  {
+    "question": "Jakie informacje są potrzebne, aby system odpowiedział na pytanie?",
+    "answer": "Wystarczy zadać pytanie tekstowe – system dopasuje je do znanych odpowiedzi lub wygeneruje nową na podstawie obrazu."
+  },
+  {
+    "question": "Czy mogę zadać pytanie niezwiązane z obrazem?",
+    "answer": "Tak, możesz zadać pytania ogólne – system postara się odpowiedzieć zgodnie z danymi z FAQ."
+  },
+  {
+    "question": "Czy system działa offline?",
+    "answer": "Nie, system korzysta z usług chmurowych i wymaga połączenia z internetem."
+  },
+  {
+    "question": "Czy mogę używać systemu na telefonie?",
+    "answer": "Tak, jeśli interfejs jest dostępny przez przeglądarkę, można z niego korzystać także na urządzeniach mobilnych."
+  },
+  {
+    "question": "Jakie są ograniczenia w analizie zdjęć?",
+    "answer": "System może mieć trudności z analizą zdjęć zamazanych, ciemnych lub bardzo szczegółowych scen."
+  },
+  {
+    "question": "Czy system rozpoznaje emocje na twarzach?",
+    "answer": "Nie, aktualnie nie analizujemy emocji."
+  },
+  {
+    "question": "Czy mogę zadawać pytania po polsku?",
+    "answer": "Tak, system wspiera język polski."
+  },
+  {
+    "question": "Co się dzieje, jeśli system nie rozpozna niczego na zdjęciu?",
+    "answer": "Otrzymasz komunikat, że analiza się nie powiodła lub nie wykryto rozpoznawalnych elementów."
+  },
+  {
+    "question": "Czy system może opisać zdjęcie artystycznie?",
+    "answer": "Tak, możesz poprosić o opis kreatywny lub metaforyczny, a system postara się go wygenerować."
+  },
+  {
+    "question": "Jak dokładne są odpowiedzi systemu?",
+    "answer": "Odpowiedzi bazują na analizie modelu językowego i wizualnego – są dokładne, ale nie zawsze idealne."
+  },
+  {
+    "question": "Czy mogę trenować system na własnych zdjęciach?",
+    "answer": "Nie, obecna wersja nie umożliwia trenowania na danych użytkownika."
+  }
+]
