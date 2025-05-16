@@ -2,7 +2,7 @@
 Autor: Dominik Wojtasik
 
 ## Wymagania
-- Python 3.8
+- Python 3.10
 - Klucz API do Google Gemini (GenAI) w zmiennej systemowej `GENAI_API_KEY`
 - Streamlit
 - google-generativeai
@@ -27,7 +27,15 @@ Po wygenerowaniu faq_index.pkl, uruchom aplikację:
 ```bash
 streamlit run app.py
 ```
-
+## Uruchomienie przez Dockera
+# Zbudowanie obrazu Dockera
+```bash
+docker build --build-arg GENAI_API_KEY="twoj_klucz_api" -t faq-genai .
+```
+# Uruchom kontener z aplikacją
+```bash
+docker run -e GENAI_API_KEY="twoj_klucz_api" -p 8501:8501 faq-genai
+```
 ## Format pliku faq.json
 Plik powinien zawierać listę par pytanie-odpowiedź, np.:
 ```json
